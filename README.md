@@ -1,6 +1,10 @@
-# Build A Group-Chat App in 30 Lines Using Node.js
+# Build A Group-Chat App Using Node.js, Express.js & Socket.io
+https://nodejs.org/en/
+https://socket.io/
+https://expressjs.com/
 
-A simple and (hopefully) to-the-point tutorial to build your first group-chat application using Node.js in less than 30 lines of code.
+
+A simple group-chat application using Node.js, Express.js & Socket.io.
 
 ## Running the program
 
