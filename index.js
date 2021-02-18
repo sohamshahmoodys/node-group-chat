@@ -19,7 +19,7 @@ io.sockets.on('connection', function(socket) {
 
     socket.on('chat_message', function(message) {
         io.emit('chat_message', '<strong>' + socket.username + '</strong>: ' + message);
-        console.log('chat_message|'+ socket.username + '|' + message);
+        console.log('chat_message | MIS-Tech-Talk Q&A | Kong - Api Gateway | '+ socket.username + ' | ' + message);
     });
 
 });
